@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android_register_shortcuts</string>
+
+    <string name="first_short">first</string>
+    <string name="first_long">页面1</string>
+    <string name="second_short">second</string>
+    <string name="second_long">页面2</string>
+    <string name="third_short">third</string>
+    <string name="third_long">页面3</string>
+
+</resources>
